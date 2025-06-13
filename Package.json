@@ -1,0 +1,12 @@
+{
+  "name": "terabox-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencyManagement": {},
+  "keywords": [],
+  "author": "@Labani",
+  "license": "MIT"
+}
